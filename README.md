@@ -17,8 +17,8 @@ Buscando minha primeira oportunidade.
 
 ## Projetos
 
-Pisa Leve
-Redesenho AACD
+[Pisa Leve](https://github.com/lira-tech/pisaleve.git)
+[Redesenho AACD](https://github.com/lira-tech/aacd-redesign.git)
 
 Contato
 arthurlira.dev@gmail.com
